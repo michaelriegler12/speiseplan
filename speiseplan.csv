@@ -1,6 +1,10 @@
 @odata.etag,ItemInternalId,Tag,Suppe / Vorspeise,Hauptspeise,Beilage / Salat,Dessert,Hinweise / Allergene
-,2e01e866-f337-46d7-ba59-b7d5cb5bd55f,Montag,Lauchsuppe,Reisfleisch mit Paprikarahmsauce,und Gurkerl (GM),Kuchen (ACFGH),
-,d31299a3-a527-437a-b464-cce9cab83d72,Dienstag,Käsesuppe (G),Gebackenes Surschnitzel (ACG),mit Petersilienkartoffeln und Salat,Vanillecreme (G),
-,3cb2bb6f-9785-46af-8369-432bc420f413,Mittwoch,Krautsuppe,Pute Natur,mit Reis und Salat,Somlauerschnitte (ACGH),
-,85dde0a7-b0b6-41a7-af9c-d88c0f74376f,Donnerstag,Broccolicremesuppe,Schnitzelkopf (AC),Tomatensauce und Kartoffeln,Obst,
-,db8b4925-900c-4eae-877d-ec4d28b947f1,Freitag,Tomatensuppe,Fisch gebacken (ACDG),mit Reis und Salat,Kuchen (ACFGH),
+,3b171c84-cb65-450a-9326-265fc66336e7,Montag,Kräutercremesuppe ,Spaghetti Bolognese (ACO),mit Salat ,"Topfenschnitte (ACG)
+",
+,92495e30-c3a0-438e-9ea9-10e4ed5cba7b,Dienstag,Gemüsesuppe mit Eintropf (CG),Kartoffelgulasch mit Wurst,Wachauer (A),Grießpudding (AG),
+,74c4cc84-a616-447b-ab7b-f82e0502dd81,Mittwoch,Gelbe Rüben Suppe,"Rindsschnitzel in Rahmsauce (G)
+
+",mit Kroketten und Karotten (G),Kuchen (ACFGH),
+,8383af00-cff5-4c93-974a-e3257029e121,Donnerstag,Spargelcremesuppe,Überbackene Schinkenfleckerl (ACG),mit Sauerrahm und Salat (G),Obst,
+,b7387f53-05ea-489b-b1da-7dcd9b5fb8c4,Freitag,"Klare Gemüsesuppe mit Teigwaren (AC)
+",Germknödel mit Mohnzucker,Vanillesauce (ACG),Kuchen (ACFGH),
